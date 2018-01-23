@@ -39,7 +39,7 @@ let y = stretchvalue * pow(input - lr, 2) + updown
  
  ![equation](equation.png "Equation")
  */
-
+// Y= 4807
 /*:
  - callout(Shortcut): The **Edit All in Scope** menu command is useful when renaming variables – place your cursor within the variable name and then invoke the menu command.
  
