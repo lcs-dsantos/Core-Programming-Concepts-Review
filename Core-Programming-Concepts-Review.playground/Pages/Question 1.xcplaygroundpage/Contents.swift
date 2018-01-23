@@ -33,6 +33,7 @@ let input = 100.0
 // Calculate the dependent variable value
 let y = stretchvalue * pow(input - lr, 2) + updown
 
+// Y= 4807
 /*:
  In other words:
  
