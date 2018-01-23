@@ -18,7 +18,12 @@
  
  */
 // Answer question 2 below
-
+// You need to store imformation so you create a var (can change) or a let that can't change)
+var commits = 100
+var forks = 50
+let yearCreated = 2018
+let monthCreated = 01
+let dayCreated = 15
 /*:
  ## Now share your understanding
  
