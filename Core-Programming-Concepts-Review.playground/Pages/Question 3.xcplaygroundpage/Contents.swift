@@ -14,7 +14,12 @@
  
  */
 // Answer question 3 below
-
+var pigggyBank = 0 
+pigggyBank += 10
+pigggyBank += 20
+pigggyBank /= 2
+pigggyBank *= 3
+pigggyBank -= 3
 /*:
  ## Now share your understanding
  
